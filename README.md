@@ -9,4 +9,4 @@
 
 💡 Paixões e Hobbies Quando não estou codificando ou desvendando dados, você pode me encontrar na academia, mantendo o corpo tão ativo quanto a mente. Sou um gamer ávido, sempre pronto para o próximo desafio nos jogos online. Meu amor por carros se estende da garagem para a estrada, e minha trilha sonora é uma mistura vibrante de música eletrônica e synthwave. Sou um aficionado pela cultura JDM, e nos momentos de relax, mergulho no mundo dos animes, filmes e séries.
 
-📫 How to reach me: https://www.linkedin.com/in/dev-raul-oliveira
+📫 Contato: https://www.linkedin.com/in/dev-raul-oliveira
