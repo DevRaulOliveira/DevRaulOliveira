@@ -10,6 +10,5 @@
 💡 Paixões e Hobbies: Quando não estou codificando ou desvendando dados, você pode me encontrar na academia, mantendo o corpo tão ativo quanto a mente. Sou um gamer ávido, sempre pronto para o próximo desafio nos jogos online. Meu amor por carros se estende da garagem para a estrada, e minha trilha sonora é uma mistura vibrante de música eletrônica e synthwave. Sou um aficionado pela cultura JDM, e nos momentos de relax, mergulho no mundo dos animes, filmes e séries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
-
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 
