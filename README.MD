@@ -3,7 +3,7 @@
 
 👋 Olá, mundo! Eu sou Raul, 30 anos. Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da TI como estagiário na Scania Latin America. Aqui, estou na linha de frente do setor de transporte sustentável, contribuindo com minhas habilidades em áreas administrativas e operacionais. Minha jornada começou com um diploma de tecnólogo em Mecânica Automotiva pela FATEC Santo André em 2021.
 
-🌱 Atualmente estou contruindo uma base solida dos meus conhecimentos, com enfase em dados e desenvolvimento de sistemas. Porém sempre disposto a estar adquirindo novos conhecimentos a respeito de tudo, afina o que é a vida sem ser vivida?
+🌱 Atualmente estou contruindo uma base solida dos meus conhecimentos, com enfase em dados e desenvolvimento de sistemas. Porém sempre disposto a estar adquirindo novos conhecimentos a respeito de tudo, afinal o que é a vida sem ser vivida?
 
 👨‍💻 Educação e Habilidades: Estou em constante evolução, atualmente aprimorando meu conhecimento em Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Estou fascinado pelo poder dos dados e como eles podem transformar o mundo ao nosso redor. Por isso, estou me especializando em banco de dados, Power BI, e outras ferramentas cruciais para o desenvolvimento de sistemas. Meu objetivo? Ser um catalisador para a transformação digital e inovação na indústria, impulsionando a eficiência e sustentabilidade através da tecnologia.
 
