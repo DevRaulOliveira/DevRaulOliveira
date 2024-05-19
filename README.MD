@@ -13,4 +13,4 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=true&theme=tokyonight)
