@@ -6,8 +6,12 @@
 🌱 Atualmente estou contruindo uma base solida dos meus conhecimentos, com enfase em dados e desenvolvimento de sistemas. Porém sempre disposto a estar adquirindo novos conhecimentos a respeito de tudo, afinal o que é a vida sem ser vivida?
 
 👨‍💻 Educação e Habilidades: Estou em constante evolução, atualmente aprimorando meu conhecimento em Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Estou fascinado pelo poder dos dados e como eles podem transformar o mundo ao nosso redor. Por isso, estou me especializando em banco de dados, Power BI, e outras ferramentas cruciais para o desenvolvimento de sistemas. Meu objetivo? Ser um catalisador para a transformação digital e inovação na indústria, impulsionando a eficiência e sustentabilidade através da tecnologia.
+![Mechanic](https://images.unsplash.com/photo-1530124566582-a618bc2615dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 💡 Paixões e Hobbies: Quando não estou codificando ou desvendando dados, você pode me encontrar na academia, mantendo o corpo tão ativo quanto a mente. Sou um gamer ávido, sempre pronto para o próximo desafio nos jogos online. Meu amor por carros se estende da garagem para a estrada, e minha trilha sonora é uma mistura vibrante de música eletrônica e synthwave. Sou um aficionado pela cultura JDM, e nos momentos de relax, mergulho no mundo dos animes, filmes e séries.
+
+![Jdm](https://images.unsplash.com/photo-1706569052896-5e348ba09e68?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Cyberpunk](https://static.cdprojektred.com/cms.cdprojektred.com/16x9_big/872822c5e50dc71f345416098d29fc3ae5cd26c1-1280x720.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
