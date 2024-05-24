@@ -13,7 +13,6 @@ Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
-[![Microsoft](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white]("mailto:raul_cez@outlook.com")
 
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=00ffff&line=ffffff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
