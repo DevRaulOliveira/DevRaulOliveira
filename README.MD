@@ -15,6 +15,6 @@ Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=00ffff&line=ffffff&point=00ffff&area=true&hide_border=true)](https://github.com/DevRaulOliveira/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=00ffff&line=ffffff&point=00ffff&area=true&hide_border=true)](https://github.com/Ashauto0470/github-readme-activity-graph)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=true&theme=tokyonight)
