@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e0ffff&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I'm+30+years+old.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d8bfd8&size=25&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I'm+30+years+old.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da TI como estagiário na Scania Latin America. Aqui, estou na linha de frente do setor de transporte sustentável, contribuindo com minhas habilidades em áreas administrativas e operacionais. Minha jornada começou com um diploma de tecnólogo em Mecânica Automotiva pela FATEC Santo André em 2021.
 
