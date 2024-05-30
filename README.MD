@@ -15,10 +15,10 @@ Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
 
-
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
+<align="left" ="200em"
+src = ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=true&theme=tokyonight)
-
+<div>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
