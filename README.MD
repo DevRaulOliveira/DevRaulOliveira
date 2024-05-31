@@ -16,7 +16,7 @@ Um entusiasta da tecnologia e inovação, atualmente mergulhando no universo da 
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
 
 
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=false&theme=tokyonight)
+![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=true&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
