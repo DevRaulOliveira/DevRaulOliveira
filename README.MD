@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I'm+30+years+old.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I'm+from+1993.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 "Only those who takes the risks takes the prize" 
 
