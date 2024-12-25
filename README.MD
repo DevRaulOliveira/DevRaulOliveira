@@ -12,7 +12,9 @@
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=false&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=00BFBF&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30center=true&vCenter=true&width=10000&lines=Most+familiar+languages:%29)](https://git.io/typing-svg)
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
