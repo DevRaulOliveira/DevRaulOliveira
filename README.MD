@@ -12,7 +12,6 @@
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=false&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=00BFBF&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
