@@ -12,17 +12,19 @@
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=false&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg) -->
+
 <br>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![AwsRds](https://img.shields.io/badge/RDS-AWS-FF8C00?style=for-the-badge&logo=amazonrds&logoColor=%23FF8C00)
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Basic%3A)](https://git.io/typing-svg)
 <br>
 ![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)
-
+-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
