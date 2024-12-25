@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&hide_progress=false&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](![Static Badge](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 
