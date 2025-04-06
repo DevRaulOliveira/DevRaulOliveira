@@ -17,10 +17,10 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+<!--
 ![AwsRds](https://img.shields.io/badge/RDS-AWS-FF8C00?style=for-the-badge&logo=amazonrds&logoColor=%23FF8C00)
-
 ![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
-
+-->
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Basic%3A)](https://git.io/typing-svg)
