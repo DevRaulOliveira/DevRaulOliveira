@@ -20,7 +20,6 @@
 ![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="77cd27a5-36f8-4774-919c-f33b821d59ca" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 
 ![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
