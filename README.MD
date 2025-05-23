@@ -17,11 +17,10 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 <!--
-
+![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
 -->
 
