@@ -19,19 +19,7 @@
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
-<!--
-![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
--->
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Basic%3A)](https://git.io/typing-svg)
-<br>
-![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)
-![ASP Classic](https://img.shields.io/badge/ASP-Classic-silver?style=for-the-badge&logo=.net&labelColor=blue)
-
--->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -40,3 +28,10 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Basic%3A)](https://git.io/typing-svg)
+![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)
+![ASP Classic](https://img.shields.io/badge/ASP-Classic-silver?style=for-the-badge&logo=.net&labelColor=blue)
+-->
