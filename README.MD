@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=542a71&size=40center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
 
 "Only those who takes the risks takes the prize." 
 
@@ -36,7 +36,7 @@
 --- ff2a6d
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=ffffff&line=f57371&point=68aca3&area_color=d43dba&area=true&custom_title=Raul&radius=10&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=ffffff&line=ffffff&point=68aca3&area_color=d43dba&area=true&custom_title=Raul&radius=10&hide_border=true&grid_color=ffffff)
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=000000&title_color&line=ffffff&point=C20202&area=truehide_border=true) >
 
