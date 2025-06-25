@@ -12,9 +12,12 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg) -->
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-bright?style=for-the-badge&logo=Js&logoColor=light-gray&logoSize=auto&label=%7B%20%7D%20&labelColor=%23CECECE&color=%23B162C7)
+![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
+
+![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
+
+![JSON](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=Json&logoColor=%23B162C7&logoSize=auto&labelColor=%23CECECE&color=%23B162C7)
+
 
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
