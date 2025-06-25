@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
-
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&layout=compact&hide_progress=false&theme=tokyonight)
@@ -35,8 +36,3 @@
 
 ---
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=f57371&line=ffffff&point=f57371&area_color=d43dba&area=true&custom_title=Raul+activity...&radius=10&hide_border=true&grid_color=ffffff)
-
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
--->
