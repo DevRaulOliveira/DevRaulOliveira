@@ -33,24 +33,11 @@
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=for-the-badge&logoSize=auto&color=%23C91111)
 
---- ff2a6d
-
+---
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=ffffff&line=ffffff&point=68aca3&area_color=d43dba&area=true&custom_title=Raul+progress&radius=10&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=f57371&line=ffffff&point=68aca3&area_color=d43dba&area=true&custom_title=Raul+progress&radius=10&hide_border=true&grid_color=ffffff)
 
-<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=000000&title_color&line=ffffff&point=C20202&area=truehide_border=true) >
 
-<!--
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-red.svg?style=for-the-badge&logo=HTML&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Basic%3A)](https://git.io/typing-svg)
-![JavaScript](https://img.shields.io/badge/JS-Java_Script-blue?style=for-the-badge&color=%23FFFF00)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B)
-![ASP Classic](https://img.shields.io/badge/ASP-Classic-silver?style=for-the-badge&logo=.net&labelColor=blue)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 -->
