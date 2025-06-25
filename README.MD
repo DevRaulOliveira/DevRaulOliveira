@@ -14,7 +14,8 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON] (https://img.shields.io/badge/JSON-bright?style=for-the-badge&logo=Js&logoColor=light-gray&logoSize=auto&label=%7B%20%7D%20&labelColor=%23CECECE&color=%23B162C7)
+![JSON](https://img.shields.io/badge/JSON-bright?style=for-the-badge&logo=Js&logoColor=light-gray&logoSize=auto&label=%7B%20%7D%20&labelColor=%23CECECE&color=%23B162C7)
+
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
