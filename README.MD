@@ -36,9 +36,9 @@
 --- ff2a6d
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=ff2a6dtitle_color=05d9e8&color=05d9e8&line=ffffff&point=C20202&area=truearea_color=C20202&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=ff2a6d&color=000000&title_color=05d9e&line=ff2a6d&point=C20202&area_color=ffffff&area=true&custom_title=Raul&radius=10&hide_border=true&grid_color=ffffff)
 
-<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=C20202&line=ffffff&point=C20202&area=truehide_border=true) >
+<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=000000&title_color&line=ffffff&point=C20202&area=truehide_border=true) >
 
 <!--
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
