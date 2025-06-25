@@ -7,7 +7,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=f57371&text_color=000000&icon_color=f57371&border_color=f57371&bg_color=542a71&hide_border=false&cache_seconds=21600)
+![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=f57371&text_color=000000&icon_color=f57371&border_color=f57371&bg_color=542a71&hide_border=false&cache_seconds=21600&borde_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&layout=compact&hide_progress=false&theme=tokyonight)
 
 ---
