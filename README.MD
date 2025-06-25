@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=30center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
 
 "Only those who takes the risks takes the prize." 
 
@@ -9,7 +9,7 @@
 ![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&layout=compact&hide_progress=false&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=500&color=00bfbf&size=30&width=435&lines=Most+familiar;3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=500&color=00bfbf&size=40&width=435&lines=Most+familiar:)](https://git.io/typing-svg)
 
 ## Languages
 ![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
