@@ -12,7 +12,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg) -->
 
 ## Languages
-
 ![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
 ![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
 ![JSON](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=Json&logoColor=%23B162C7&logoSize=auto&labelColor=%23CECECE&color=%23B162C7)
@@ -29,7 +28,7 @@
 ![RelationalDatabase](https://img.shields.io/badge/Relational_Database-text?style=for-the-badge&logo=tool&logoColor=%23D20103&logoSize=auto&labelColor=%23CECECE&color=%23D20103)
 ![NonRelationalDatabase](https://img.shields.io/badge/Non_Relational_Database-text?style=for-the-badge&logo=NoSQL&logoColor=%237DDA58&logoSize=auto&labelColor=%23CECECE&color=%237DDA58)
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
-
+---
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)
