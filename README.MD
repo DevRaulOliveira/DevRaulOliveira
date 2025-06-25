@@ -25,9 +25,9 @@
 ![Databricks](https://img.shields.io/badge/Databricks-text?style=for-the-badge&logo=Databricks&logoColor=%23FF3621&logoSize=auto&labelColor=%23CECECE&color=%23FF3621)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
----
-## TOP Concepts
 
+## TOP Concepts
+---
 ![RelationalDatabase](https://img.shields.io/badge/Relational_Database-text?style=for-the-badge&logo=tool&logoColor=%23D20103&logoSize=auto&labelColor=%23CECECE&color=%23D20103)
 ![NonRelationalDatabase](https://img.shields.io/badge/Non_Relational_Database-text?style=for-the-badge&logo=NoSQL&logoColor=%237DDA58&logoSize=auto&labelColor=%23CECECE&color=%237DDA58)
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
