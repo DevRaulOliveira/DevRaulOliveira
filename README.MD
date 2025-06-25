@@ -34,8 +34,7 @@
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=for-the-badge&logoSize=auto&color=%23C91111)
 
 ---
-## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=f57371&line=ffffff&point=68aca3&area_color=d43dba&area=true&custom_title=Raul+progress&radius=10&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=f57371&line=ffffff&point=f57371&area_color=d43dba&area=true&custom_title=Raul+activity...&radius=10&hide_border=true&grid_color=ffffff)
 
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
