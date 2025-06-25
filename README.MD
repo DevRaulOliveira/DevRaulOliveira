@@ -29,7 +29,7 @@
 ---
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=171c25&color=00ffff&line=ffffff&point=00bfbf&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=171c25&color=C20202&line=ffffff&point=00bfbf&area=true&hide_border=true)
 
 
 <!--
