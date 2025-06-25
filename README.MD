@@ -29,7 +29,7 @@
 ---
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000title_color=000000&color=C20202&line=ffffff&point=C20202&area=true&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000title_color=000000&color=C20202&line=ffffff&point=C20202&area_color=C20202&hide_border=true&grid_color=ffffff)
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=C20202&line=ffffff&point=C20202&area=truehide_border=true) >
 
