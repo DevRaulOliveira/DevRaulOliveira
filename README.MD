@@ -33,10 +33,10 @@
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=for-the-badge&logoSize=auto&color=%23C91111)
 
----
+--- ff2a6d
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000title_color=000000&color=05d9e8&line=ffffff&point=C20202&area=truearea_color=C20202&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&title_color=ff2a6d&color=05d9e8&line=ffffff&point=C20202&area=truearea_color=C20202&hide_border=true&grid_color=ffffff)
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=C20202&line=ffffff&point=C20202&area=truehide_border=true) >
 
