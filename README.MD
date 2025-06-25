@@ -12,15 +12,18 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=10000&color=00bfbf&&width=435&lines=Most+familiar%3A)](https://git.io/typing-svg) -->
 
+#Languages
+
 ![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
 ![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
 ![JSON](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=Json&logoColor=%23B162C7&logoSize=auto&labelColor=%23CECECE&color=%23B162C7)
-
-
-
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
+![Databricks](https://img.shields.io/badge/Databricks-text?style=for-the-badge&logo=Databricks&logoColor=%23FF3621&logoSize=auto&labelColor=%23CECECE&color=%23FF3621)
+
+
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
 
