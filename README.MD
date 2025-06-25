@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=542a71&size=40center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=40center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Raul+Oliveira.;I+love+coding+and+nerd+stuff.;Be+Welcome!+:%29)
 
 "Only those who takes the risks takes the prize." 
 
