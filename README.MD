@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=f57371&text_color=000000&icon_color=f57371&border_color=f57371&bg_color=542a71&hide_border=false&cache_seconds=21600&bordeR_radius=10)
+![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=f57371&text_color=000000&icon_color=f57371&border_color=f57371&bg_color=b2b6ba&hide_border=false&cache_seconds=21600&bordeR_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&layout=compact&hide_progress=false&theme=tokyonight)
 
 ---
@@ -32,4 +32,4 @@
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=for-the-badge&logoSize=auto&color=%23C91111)
 ---
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=542a71&color=000000&title_color=f57371&line=ffffff&point=f57371&area_color=d43dba&area=true&custom_title=Raul+activity...&radius=10&hide_border=true&border_color=f57371&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=b2b6ba&color=000000&title_color=f57371&line=ffffff&point=f57371&area_color=d43dba&area=true&custom_title=Raul+activity...&radius=10&hide_border=true&border_color=f57371&grid_color=ffffff)
