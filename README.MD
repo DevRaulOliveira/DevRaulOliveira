@@ -15,6 +15,7 @@
 ![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
 ![JSON](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=Json&logoColor=%23B162C7&logoSize=auto&labelColor=%23CECECE&color=%23B162C7)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML-text?style=flat-square&logo=html5&logoColor=%23F06529&logoSize=auto&labelColor=%23CECECE&color=%23F06529)
 
 ## Tools & Platforms
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
@@ -22,10 +23,12 @@
 ![Databricks](https://img.shields.io/badge/Databricks-text?style=for-the-badge&logo=Databricks&logoColor=%23FF3621&logoSize=auto&labelColor=%23CECECE&color=%23FF3621)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
-## Concepts
+## Knowledge
 ![RelationalDatabase](https://img.shields.io/badge/Relational_Database-text?style=for-the-badge&logo=tool&logoColor=%23D20103&logoSize=auto&labelColor=%23CECECE&color=%23D20103)
 ![NonRelationalDatabase](https://img.shields.io/badge/Non_Relational_Database-text?style=for-the-badge&logo=NoSQL&logoColor=%237DDA58&logoSize=auto&labelColor=%23CECECE&color=%237DDA58)
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
+![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=flat-square&logoSize=auto&color=%23C91111)
+
 ---
 
 ## Activity
