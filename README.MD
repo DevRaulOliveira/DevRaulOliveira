@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;Runing+.+.+.+:%29)
 
 "Only those who takes the risks takes the prize." 
 
