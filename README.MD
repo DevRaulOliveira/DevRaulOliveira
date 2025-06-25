@@ -10,7 +10,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&layout=compact&hide_progress=false&theme=tokyonight)
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?pause=500&color=00bfbf&size=40&width=435&lines=Knowledge:)](https://git.io/typing-svg)
 ## Languages
 ![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
 ![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
