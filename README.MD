@@ -36,7 +36,7 @@
 --- ff2a6d
 
 ## Activity
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&title_color=ff2a6d&color=05d9e8&line=ffffff&point=C20202&area=truearea_color=C20202&hide_border=true&grid_color=ffffff)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=ff2a6dtitle_color=05d9e8&color=05d9e8&line=ffffff&point=C20202&area=truearea_color=C20202&hide_border=true&grid_color=ffffff)
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=000000&color=C20202&line=ffffff&point=C20202&area=truehide_border=true) >
 
