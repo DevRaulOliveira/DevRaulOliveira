@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;Runing+.+.+.+;:%29)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=45left=true&vCenter=true&width=500lines=Only,+those+who+takes+the+risk;takes+the+price;+.+.+.;) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f57371&size=45left=true&vCenter=true&width=500&lines=Only,+those+who+takes+the+risk;takes+the+price;+.+.+.;) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
