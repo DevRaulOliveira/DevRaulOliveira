@@ -21,6 +21,7 @@
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
 ![Databricks](https://img.shields.io/badge/Databricks-text?style=for-the-badge&logo=Databricks&logoColor=%23FF3621&logoSize=auto&labelColor=%23CECECE&color=%23FF3621)
+![Oracle](https://img.shields.io/badge/ORACLE-text?style=for-the-badge&logo=OracleDatabase&logoColor=%23CECECE&logoSize=auto&labelColor=%23CECECE&color=%23C91111)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 
 ## Knowledge
