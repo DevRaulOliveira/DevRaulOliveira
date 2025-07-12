@@ -10,7 +10,13 @@
 
 ---
 ## Languages
-![My Skills](https://skillicons.dev/icons?i=python,mysql,markdown,html,css,c,java,javascript)
+
+![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
+![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
+![JSON](https://img.shields.io/badge/JSON-red?style=for-the-badge&logo=Json&logoColor=%23B162C7&logoSize=auto&labelColor=%23CECECE&color=%23B162C7)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML-text?style=for-the-badge&logo=html5&logoColor=%23F06529&logoSize=auto&labelColor=%23CECECE&color=%23F06529)
+![C++](https://img.shields.io/badge/C%2B%2B-text?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto&labelColor=%23CECECE&color=%2300599C)
 
 ## Tools & Platforms
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
