@@ -25,7 +25,7 @@
 ![Oracle](https://img.shields.io/badge/ORACLE-text?style=for-the-badge&logo=OracleDatabase&logoColor=%23CECECE&logoSize=auto&labelColor=%23CECECE&color=%23C91111)
 ![AWS](https://img.shields.io/badge/AWS-yellow.svg?style=for-the-badge&logo=AWS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-text?style=for-the-badge&logo=MongoDB&logoColor=%234db33d&logoSize=auto&labelColor=%23CECECE&color=%234db33d)
- 	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
+![Jira](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png)
 
 ## Knowledge
 ![RelationalDatabase](https://img.shields.io/badge/Relational_Database-text?style=for-the-badge&logo=tool&logoColor=%23D20103&logoSize=auto&labelColor=%23CECECE&color=%23D20103)
