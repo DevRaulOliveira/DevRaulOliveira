@@ -16,7 +16,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML-text?style=for-the-badge&logo=html5&logoColor=%23F06529&logoSize=auto&labelColor=%23CECECE&color=%23F06529)
 ![C++](https://img.shields.io/badge/C%2B%2B-text?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto&labelColor=%23CECECE&color=%2300599C)
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,json,markdown,html,c,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,markdown,html,c)](https://skillicons.dev)
 
 ## Tools & Platforms
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
