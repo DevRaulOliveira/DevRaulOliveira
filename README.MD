@@ -1,11 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008f11&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;Runing+.+.+.+;:%29)
-
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=008f11&text_color=000000&icon_color=008f11&border_color=008f11&bg_color=36454F&hide_border=false&cache_seconds=21600&radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Username=DevRaulOliveira&size_weight=3&count_weight=3&title_color=008f11&text_color=000000&icon_color=008f11&border_color=008f11&bg_color=36454F&hide_border=false&cache_seconds=21600&radius=10)
+
 ---
 ## Languages
 
@@ -16,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-text?style=for-the-badge&logo=html5&logoColor=%23F06529&logoSize=auto&labelColor=%23CECECE&color=%23F06529)
 ![C++](https://img.shields.io/badge/C%2B%2B-text?style=for-the-badge&logo=C%2B%2B&logoColor=%2300599C&logoSize=auto&labelColor=%23CECECE&color=%2300599C)
 
+---
 ## Tools & Platforms
 ![PowerBi](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-blue.svg?style=for-the-badge&logo=Azure&blue&logoColor=gray)
