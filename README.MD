@@ -5,9 +5,6 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
-![Raul Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaulOliveira&show_icons=true&title_color=008f11&text_color=000000&icon_color=008f11&border_color=008f11&bg_color=36454F&hide_border=false&cache_seconds=21600&radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaulOliveira&size_weight=3&count_weight=3&title_color=008f11&text_color=000000&icon_color=008f11&border_color=008f11&bg_color=36454F&hide_border=false&cache_seconds=21600&radius=10)
-
 ---
 ## Languages
 
