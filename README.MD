@@ -1,19 +1,13 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008f11&size=40center=true&vCenter=true&width=1000&lines=Hi,+helloworld.exe;Runing+.+.+.+;:%29)
 ---
 
-<a href="https://github.com/DevRaulOliveira/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DevRaulOliveira" />
-</a>
-<a href="https://github.com/DevRaulOliveira/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevRaulOliveira&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raul-oliveira?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtFqbzy%2BUSI2ffkNrrOsRTA%3D%3D)
 [![ViewCount](https://komarev.com/ghpvc/?username=DevRaulOliveira&style=for-the-badge)](https://github.com/DevRaulOliveira/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DevRaulOliveira/)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
-# About Me
+## About Me
 I am a Data and AI professional with 3 years of experience in technology, focused on transforming business challenges into automated solutions. My career includes roles at major multinationals such as Scania and Vivo, where I worked at the intersection of data engineering and operational strategy.
 
 Currently at Vivo, I work with the Databricks platform developing governance and data ingestion solutions. I implemented an efficient file transformation methodology that accelerates data readiness for Machine Learning and AI models, fostering a data-driven culture in the company. Previously at Scania, I developed visibility solutions for logistics and finance, creating tools that directly impacted inventory reduction through item criticality analysis.
