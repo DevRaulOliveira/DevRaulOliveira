@@ -17,7 +17,7 @@ My main technical skills include SQL, Python, Data Engineering, and Data Viz pla
 I also participates a lot into IT community events like meet-ups and meetings, mainly about Data and AI solutions.
 
 ---
-## Knowledge
+## Languages
 
 ![Python](https://img.shields.io/badge/PYTHON-T?style=for-the-badge&logo=python&logoColor=%2314354C&logoSize=auto&labelColor=%23CECECE&color=%2314354C)
 ![MySql](https://img.shields.io/badge/MYSQL-T?style=for-the-badge&logo=Mysql&logoColor=%234682B4&logoSize=auto&labelColor=%23CECECE&color=%234682B4)
