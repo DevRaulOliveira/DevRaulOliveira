@@ -8,13 +8,32 @@
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DevRaulOliveira)
 
 ## About Me
-I am a Data and AI professional with 3 years of experience in technology, focused on transforming business challenges into automated solutions. My career includes roles at major multinationals such as Scania and Vivo, where I worked at the intersection of data engineering and operational strategy.
+Data Analyst with 3+ years in BI, analytics, and data governance. Built KPIs for business teams at Vivo, developed Power BI dashboards at Scania, and led the migration of 17 years of Legal data to Azure Databricks. I turn raw data into business decisions, with governance, quality, and scale. 
 
-Currently at Vivo, I work with the Databricks platform developing governance and data ingestion solutions. I implemented an efficient file transformation methodology that accelerates data readiness for Machine Learning and AI models, fostering a data-driven culture in the company. Previously at Scania, I developed visibility solutions for logistics and finance, creating tools that directly impacted inventory reduction through item criticality analysis.
 
-My main technical skills include SQL, Python, Data Engineering, and Data Viz platforms. I have technical backgrounds in Administration and Logistics, a degree in Automotive Mechanics, and I am currently studying Systems Analysis and Development (graduating 06/2026). I have intermediate English and a constant focus on AI for user experience.
 
-I also participates a lot into IT community events like meet-ups and meetings, mainly about Data and AI solutions.
+At Vivo, I spent 1 year and 8 months on data projects built on Databricks. I started on the environment’s ingestion and governance front, where I created utilization and adoption KPIs using the platform’s own features, giving business teams the key usage metrics. For the Finance team, I kicked off the cost workstream and the development of a Genie Agent for business users. 
+
+
+
+I was later promoted to Data Analyst and took over as Tech Lead of the Data Mesh project, which created a single source of truth for the Legal team. I gathered requirements from users, trained the team, migrated data from Oracle, Azure PostgreSQL, Cosmos DB, and Synapse into Databricks, and set up data access control. 
+
+
+
+At Scania (1 year and 8 months), I developed Power BI dashboards on top of Oracle for Logistics and Finance, including an item criticality analysis that reduced purchases of slow-moving items. What sets me apart: I come from Logistics and Automotive Mechanics, so I understand the operation behind the numbers, and I’ve worked with sensitive legal data. I communicate comfortably with both the business and the technical team.
+
+
+
+What I bring to the team: 
+
+- Data engineering and governance on Databricks (PySpark, SQL) 
+
+- Decision-driven dashboards and BI (Power BI) 
+
+- An operations mindset and familiarity with legal data, coming from a background in Logistics and Automotive Mechanics
+
+
+Open to opportunities in Data Engineering, Analytics Engineering, and Data Analysis, in São Paulo or remote. Reach out here or at dev.rauloliveira@outlook.com
 
 ---
 ## Languages
