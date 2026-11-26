@@ -60,5 +60,3 @@ Open to opportunities in Data Engineering, Analytics Engineering, and Data Analy
 ![NonRelationalDatabase](https://img.shields.io/badge/Non_Relational_Database-text?style=for-the-badge&logo=NoSQL&logoColor=%237DDA58&logoSize=auto&labelColor=%23CECECE&color=%237DDA58)
 ![MedalionArchiteture](https://img.shields.io/badge/Medallion_Architecture-text?style=for-the-badge&logo=NoSQL&logoColor=%23F7C202&logoSize=auto&labelColor=%23CECECE&color=%23F7C202)
 ![DataAnalysis](https://img.shields.io/badge/Data_Analysis-text?style=for-the-badge&logoSize=auto&color=%23C91111)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRaulOliveira&bg_color=36454f&color=000000&title_color=008f11&line=ffffff&point=008f11&area_color=00ff41&area=true&custom_title=Raul+activity...&radius=10&hide_border=true&border_color=008f11&grid_color=000000)
